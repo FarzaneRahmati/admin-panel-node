@@ -1,0 +1,8 @@
+{
+    "name":"Node js",
+    "db":{
+      
+        "address":"mongodb://localhost:27017/nodedb"
+    },
+    "jwt_key":"fgkdihilokpwnbcu34jhdi989nmc0F"
+}
